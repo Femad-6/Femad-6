@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Li Shiqi  👋
+# Hi, I'm femad  👋
 
 ### IoT Engineering Undergraduate · Intelligent Algorithms · Embedded Systems · Multi-Sensor Fusion
 
-郑州大学物联网工程专业本科生，专注于多源融合定位、智能优化与嵌入式系统开发。
+一名热爱AI agent开发的本科生，专注于多源融合定位、智能优化与嵌入式系统开发。
 
 [![GitHub](https://img.shields.io/badge/GitHub-Femad--6-181717?style=flat-square&logo=github)](https://github.com/Femad-6)
 [![Email](https://img.shields.io/badge/Email-lsqfemad%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lsqfemad@gmail.com)
@@ -13,7 +13,6 @@
 
 ## About Me / 关于我
 
-- 🎓 2023 级郑州大学物联网工程专业本科生
 - 🧭 研究兴趣：GNSS/IMU/PDR 多源融合定位、时序建模与地图约束
 - 🤖 实践方向：ESP32、多传感器融合、嵌入式控制与机器人交互
 - 🧠 算法方向：VRP、EVRP、VRP-UAV 等组合优化问题
